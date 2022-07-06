@@ -9,6 +9,6 @@ This document provides guidance on how to setup and analyze Azure Cosmos DB Core
 
 | **Name** | **Title** | **Notes** | **Date** |
 | --- | --- | --- | --- |
-| [Subhasish Ghosh](https://www.linkedin.com/in/sghosh2011/) | Cloud Solution Architect – Data &amp; AI, <br/> Microsoft EC-US, Global CSU | Original | 4 June 2022 |
+| [Subhasish Ghosh](https://www.linkedin.com/in/sghosh2011/) | Cloud Solution Architect - D&AI | Original | 4 June 2022 |
 
 # Contents
